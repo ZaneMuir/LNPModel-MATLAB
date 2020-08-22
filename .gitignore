@@ -1,0 +1,4 @@
+dev/*
+dep/*
+
+.DS_Store
